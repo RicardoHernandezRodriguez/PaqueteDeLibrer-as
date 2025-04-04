@@ -21,7 +21,6 @@ Para ejecutar este proyecto necesitas:
 3. **Compilar y ejecutar** la clase `Main.java`, que es el punto de entrada del programa.
 
 ## 📚 Estructura del Proyecto
-```
 Tragamonedas/
 ├── Main.java                 # Punto de entrada del programa
 ├── SlotMachine.java          # Lógica de la máquina tragamonedas (modelo)
@@ -31,7 +30,6 @@ Tragamonedas/
     ├── 1.png, 2.png, ...     # Imágenes de los símbolos del tragamonedas
     ├── LuigiCasino.wav       # Música de fondo
     └── jackpot.wav           # Sonido cuando se gana el Jackpot
-```
 
 ## 📌 Notas
 - Asegúrate de que la carpeta `resources/` esté en la ubicación correcta y que los archivos de audio e imagen existan.
@@ -40,3 +38,7 @@ Tragamonedas/
 
 ---
 🎮 **Diviértete jugando con esta máquina tragamonedas!** 🚀
+
+```
+a
+```
